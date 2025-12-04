@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Plateful Logo" width="140"/>
-</p>
-
-<h1 align="center">Plateful – Food Donation Mobile App</h1>
-
-<p align="center">
-Connecting donors and NGOs through a streamlined food donation system.
-<br>
-Built using Swift, Firebase, Cloudinary, and MVC Architecture.
+  <img src="assets/logo.png" alt="Plateful Logo" width="150" height="150">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-blue"/>
-  <img src="https://img.shields.io/badge/Architecture-MVC-green"/>
-  <img src="https://img.shields.io/badge/Backend-Firebase-orange"/>
-  <img src="https://img.shields.io/badge/Storage-Cloudinary-lightgrey"/>
-  <img src="https://img.shields.io/badge/Version-1.0.0-success"/>
+  <img src="assets/banners/plateful-banner.png" alt="Plateful Banner" width="75%">
 </p>
 
-<hr>
+<h1 align="center">Plateful – iOS Food Donation Platform</h1>
+
+<p align="center">
+  A streamlined mobile solution for connecting donors with NGOs, enabling efficient food donation management, scheduling, and verification.
+</p>
+
+<p align="center">
+  <a href="#features"><img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge"></a>
+  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-MVC-green?style=for-the-badge"></a>
+  <a href="#backend"><img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge"></a>
+  <a href="https://cloudinary.com"><img src="https://img.shields.io/badge/Images-Cloudinary-lightgrey?style=for-the-badge"></a>
+  <a><img src="https://img.shields.io/badge/Swift-5.0+-f05138?style=
+
 
 
 
@@ -248,8 +248,32 @@ Each teammate must present:
 Developed by a 6-member team for the IT8108 Mobile Application Development Project.
 
 
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/login.png" width="250">
+  <img src="assets/screenshots/donor_home.png" width="250">
+  <img src="assets/screenshots/ngo_list.png" width="250">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/add_donation.png" width="250">
+  <img src="assets/screenshots/pickup_schedule.png" width="250">
+  <img src="assets/screenshots/admin_dashboard.png" width="250">
+</p>
+
+---
+
+
+
+---
+
 ---
 
 <p align="center">
-  Made by the Plateful Team – IT8108 Project
+  Developed by the Plateful Team – IT8108 Mobile Application Development Project  
+  <br>
+  © 2025 Plateful. All rights reserved.
 </p>
+
