@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Plateful Logo" width="140"/>
+</p>
+
+<h1 align="center">Plateful – Food Donation Mobile App</h1>
+
+<p align="center">
+Connecting donors and NGOs through a streamlined food donation system.
+<br>
+Built using Swift, Firebase, Cloudinary, and MVC Architecture.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS-blue"/>
+  <img src="https://img.shields.io/badge/Architecture-MVC-green"/>
+  <img src="https://img.shields.io/badge/Backend-Firebase-orange"/>
+  <img src="https://img.shields.io/badge/Storage-Cloudinary-lightgrey"/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-success"/>
+</p>
+
+<hr>
+
+
+
+
+
 # Plateful – Food Donation Mobile Application
 Smart food donation and NGO coordination system built for iOS.
 
