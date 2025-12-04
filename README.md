@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banners/plateful-banner.png" alt="Plateful Banner" width="80%">
+  <img src="banner.png" alt="Plateful Banner" width="80%">
 </p>
 
 <h1 align="center">Plateful – Smart Food Donation Mobile Platform</h1>
