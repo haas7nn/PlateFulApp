@@ -246,3 +246,10 @@ Each teammate must present:
 
 ## 11. Credits
 Developed by a 6-member team for the IT8108 Mobile Application Development Project.
+
+
+---
+
+<p align="center">
+  Made by the Plateful Team – IT8108 Project
+</p>
