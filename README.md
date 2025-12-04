@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Images-Cloudinary-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/Swift-5.0+-f05138?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project_IT8108-A%2B_Ready-purple?style=for-the-badge">
 </p>
 
 ---
